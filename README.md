@@ -7,3 +7,4 @@ Um cientista de dados combina técnicas estatísticas e de aprendizado de máqui
 ##### Informações 
 - 84 horas 
 - 22 cursos
+#### Irei atualizando durante o meu progresso no curso, quem quiser contribuir ou econtrar otimizações nos algoritimos fiquem a vontade para contribuições no material.
